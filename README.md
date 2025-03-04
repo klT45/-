@@ -64,8 +64,8 @@ GET /search?q=keyword&domain=example.com
 ## 快速部署
 ### 环境要求
 - JDK 11+
-- Flink 1.17
-- HBase 2.2
+- Flink 1.20.0
+- HBase 2.6.1
 
 ### 配置步骤
 ```bash
